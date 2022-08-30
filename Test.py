@@ -1,2 +1,0 @@
-message = "Test"
-print(message)
